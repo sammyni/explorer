@@ -1,0 +1,9 @@
+/* typography */
+
+html {
+  font-family: 'helvetica neue', helvetica, arial, sans-serif;
+}
+
+th {
+    text-align: left;
+}
