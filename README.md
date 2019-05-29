@@ -1,4 +1,4 @@
 # explorer
 Simple ethereum latest block explorer
 
-Mininal implementation of 
+Mininal implementation of web3.js
